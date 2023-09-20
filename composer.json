@@ -1,5 +1,5 @@
 {
-    "name": "buchin/google-image-grabber",
+    "name": "in2code/google-image-grabber",
     "description": "Scrape google images",
     "type": "library",
     "require": {
