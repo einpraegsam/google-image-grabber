@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "campo/random-user-agent": "^1.2",
-        "maciejczyzewski/bottomline": "^0.0.9"
+        "maciejczyzewski/bottomline": "^0.2"
     },
     "license": "MIT",
     "authors": [
